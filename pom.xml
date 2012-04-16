@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.abbink</groupId>
+  <artifactId>jk8055</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>jk8055</name>
+  <description>A maven port of jk8055 (https://code.launchpad.net/~mariob/+junk/jk8055) that uses the maven port of libusb4j</description>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.abbink</groupId>
+  		<artifactId>libusb4j</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>com.miglayout</groupId>
+  		<artifactId>miglayout</artifactId>
+  		<version>3.5.5</version>
+  		<classifier>swing</classifier>
+  	</dependency>
+  </dependencies>
+</project>
