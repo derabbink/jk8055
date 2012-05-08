@@ -40,6 +40,6 @@ This means you can modify the code, but you also have to publish the modificatio
 You may not distribute the application without distributing its source code.
 
   [1]: https://launchpad.net/jk8055 "jk8055 on launchpad.net"
-  [2]: https://github.com/derabbink/jk8055 on github"
+  [2]: https://github.com/derabbink/jk8055 "jk8055 on github"
   [3]: https://github.com/derabbink/libusb4j "libusb4j github"
   [4]: http://www.gnu.org/licenses/gpl-2.0.html "GPL v2 license"
