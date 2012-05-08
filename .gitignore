@@ -1,3 +1,11 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse and Maven files #
 .classpath
 .project
 .settings/
